@@ -1,0 +1,18 @@
+.main{
+    background-image: linear-gradient(#5bc8e4,#708be6,#8648e7);
+    
+}
+.login{
+    
+    border: 2px solid black;
+    margin: auto;
+    width: 50%;
+    border-radius: 10%;
+    background-color: white;
+    padding: 30px 10px;
+    border-collapse: collapse;
+}
+.btn1{
+    background-image: linear-gradient(#5bc8e4,#708be6,#8648e7);
+    float: right;
+}

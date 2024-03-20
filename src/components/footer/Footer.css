@@ -1,0 +1,9 @@
+.foot{
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: rgb(13, 13, 14);
+    display: flex;
+    justify-content: space-around;
+}
